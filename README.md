@@ -2,7 +2,7 @@ Portfólio Pessoal | Yasmin Brito
 
 Bem-vindo(a) ao meu portfólio pessoal! Este projeto foi desenvolvido para apresentar minhas habilidades, projetos e trajetória como estudante de **Engenharia de Software na UEM**.
 
-**Acesse o site no ar:** (https://portifolioyasmin.netlify.app)
+**Acesse o site no ar:** (https://portfolioyasminb.netlify.app)
 -----
 Preview
 ![Preview do Portfolio](preview.png)
